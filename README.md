@@ -2,11 +2,11 @@
 
 Frontend team add your Code here:
 
-<img src="/assets/1.png" width="30%">
+<img src="/assets/1.PNG" width="30%">
 
 Backend here:
 
-<img src="/assets/2.png" width="30%">
+<img src="/assets/2.PNG" width="30%">
 
 ## Requirements
 
