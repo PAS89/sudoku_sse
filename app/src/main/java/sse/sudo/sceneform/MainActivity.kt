@@ -21,7 +21,7 @@ import com.google.ar.sceneform.ux.TransformableNode
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.concurrent.CompletableFuture
 
-const val TAG = "CustomMaterialSample"
+const val TAG = "SetMaterialSample"
 private const val MIN_OPENGL_VERSION = 3.0
 
 class MainActivity : AppCompatActivity() {
