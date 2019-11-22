@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sudoko SSE</string>
+    <string name="color_text">Color</string>
+    <string name="reset_material_text">Reset Material</string>
+    <string name="set_color">Set color</string>
+    <string name="reset_color">Reset color</string>
+</resources>
