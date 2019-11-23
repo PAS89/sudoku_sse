@@ -15,6 +15,6 @@ Backend here:
 - Scenefrom 1.5.1 or higher
 - Android 24 + Devices with AR support ([see how to build on emulator](https://developers.google.com/ar/develop/java/emulator))
 
-:D
+# :D
 
 <img src="/assets/3.jpg" width="30%">
